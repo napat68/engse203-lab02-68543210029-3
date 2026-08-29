@@ -205,3 +205,6 @@ https://napat68.github.io/engse203-lab02-68543210029-3/
 จากการทำ Lab 02 ผู้จัดทำได้เรียนรู้การนำ JavaScript ES Modules มาใช้แบ่งความรับผิดชอบของโปรแกรม การดึงและตรวจสอบข้อมูลแบบ Asynchronous การจัดการข้อผิดพลาด และการแสดงผลข้อมูลผ่าน Dashboard
 
 นอกจากนี้ยังได้ฝึกใช้งาน Git และ GitHub สำหรับจัดเก็บ Source Code ใช้ npm สำหรับจัดการ dependencies ใช้ Vite ในการพัฒนาเว็บ และเผยแพร่ผลงานผ่าน GitHub Pages
+
+## Submission
+LAB Week 02 completed.

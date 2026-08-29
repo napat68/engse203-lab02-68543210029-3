@@ -104,7 +104,8 @@ engse203-lab02-68543210029-3/
 │   ├── style.css
 │   ├── ui.js
 │   └── utils.js
-├── docs/                       # สร้างจาก npm run build และต้อง commit
+├── docs/                     
+0
 ├── .gitignore
 ├── index.html
 ├── package.json
